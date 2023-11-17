@@ -1,10 +1,10 @@
-# AlisSoft
+# Alissoft
 
-Welcome to AlisSoft, where innovation meets execution! 🚀
+Welcome to Alissoft, where innovation meets execution! 🚀
 
 ## About Us
 
-At AlisSoft, we are on a mission to redefine the digital landscape by crafting cutting-edge software solutions. Our team of passionate developers, designers, and visionaries collaborates to bring ideas to life, one line of code at a time.
+At Alissoft, we are on a mission to redefine the digital landscape by crafting cutting-edge software solutions. Our team of passionate developers, designers, and visionaries collaborates to bring ideas to life, one line of code at a time.
 
 ## 🌐 Explore Our Projects
 
@@ -48,4 +48,4 @@ This project is licensed under the [License Name] - see the [LICENSE](LICENSE) f
 
 ---
 
-Thank you for exploring AlisSoft's GitHub space! We're thrilled to have you on board. Happy coding! 👩‍💻👨‍💻
+Thank you for exploring Alissoft's GitHub space! We're thrilled to have you on board. Happy coding! 👩‍💻👨‍💻
