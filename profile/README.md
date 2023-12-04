@@ -8,23 +8,11 @@ At Alissoft, we are on a mission to redefine the digital landscape by crafting c
 
 ## 🌐 Explore Our Projects
 
-### Project 1: [Project Name]
-[Short description or tagline]
-[![Project Image](link-to-project-image)](link-to-project)
-
-### Project 2: [Project Name]
-[Short description or tagline]
-[![Project Image](link-to-project-image)](link-to-project)
-
 ...
 
 Check out our [GitHub repositories](https://github.com/alissoft) for more exciting projects!
 
 ## ⚡ Technologies We Love
-
-- **Languages:** [List of programming languages you work with]
-- **Frameworks:** [List of frameworks you use]
-- **Tools:** [List of development tools you prefer]
 
 ## 🤝 How to Contribute
 
